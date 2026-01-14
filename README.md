@@ -114,7 +114,9 @@ Udemy-Clone/
 
 
 
-https://github.com/user-attachments/assets/d057d549-35c6-4c2f-ae49-f42ebfa77b86
+https://github.com/user-attachments/assets/36a0669f-303d-48d7-b9eb-783d1b0db986
+
+
 
 ---
 ## output:
