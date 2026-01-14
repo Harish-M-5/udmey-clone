@@ -42,7 +42,7 @@ Udemy-Clone/
 
 ---
 
-## 📄 index.html – Simple Explanation
+## 📄 index.html
 
 ### HTML Structure
 - Uses HTML5 doctype and meta tags for responsiveness.
@@ -80,7 +80,7 @@ Udemy-Clone/
 
 ---
 
-## 🎨 style.css – Simple Explanation
+## 🎨 style.css
 
 ### Global Styling
 - Removes default margin and padding.
