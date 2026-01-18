@@ -6,7 +6,7 @@ The main aim of this project is to practice frontend layout design and understan
 
 ---
 
-## 👀 Overview
+##  Overview
 - Static one-page website
 - Udemy-inspired UI design
 - Clean navigation bar and course layout
